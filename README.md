@@ -1,4 +1,4 @@
-# SDS-Datathon-2026-Survey-Analytics-Insight
+# Enhancing-Survey-Insight-And-Effectivenes
 A project that analyses given survey question and responses of GradSG to suggest actionable insights.
 
 Four people contributed to this project:
